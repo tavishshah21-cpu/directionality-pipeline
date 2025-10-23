@@ -8,7 +8,7 @@ This project builds a \*\*data processing and machine learning pipeline\*\* to p
 
 The workflow extracts per-site features, generates pairwise site data, and trains predictive models to analyze ground motion directionality across earthquake events.
 
-
+DATASETS- This project uses datasets from NGA WEST.
 
 
 
